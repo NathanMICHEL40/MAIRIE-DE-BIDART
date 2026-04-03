@@ -14,4 +14,6 @@ Migration du serveur de fichier : Tout comme le service Active Directory, il sou
 
 # Schéma Réseau
 
-<img 
+
+<img width="772" height="593" alt="Schéma Hôtel de ville drawio" src="https://github.com/user-attachments/assets/50b3a760-725c-460e-9018-2b2ecb117ec4" />
+<img width="772" height="593" alt="Schéma Hôtel de ville drawio" src="https://github.com/user-attachments/assets/50b3a760-725c-460e-9018-2b2ecb117ec4" />
