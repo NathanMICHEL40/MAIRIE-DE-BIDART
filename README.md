@@ -12,3 +12,6 @@ Migration de serveur AD/DNS : Il souhaite migrer le service Active Directory sur
 
 Migration du serveur de fichier : Tout comme le service Active Directory, il souhaite migrer ce service sur un serveur W2019. La migration va se dérouler en journée, la coupure de service devra donc être la plus réduite possible.
 
+# Schéma Réseau
+
+<img 
